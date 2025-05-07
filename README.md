@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <h3>Software Enginner | Java Backend Developer | Knowledge Seeker</h3>
+    <p>Software Enginner | Java Backend Developer | Knowledge Seeker</p>
 </p>
 
 <p align="center">
