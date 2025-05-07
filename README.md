@@ -1,12 +1,40 @@
-
 <p align="center">
-    <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Mahmoud+Ramadan+Abbas" alt="Typing SVG" /></h1>
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&center=true&vCenter=true&width=450&lines=Mahmoud+Ramadan+Abbas" alt="Typing SVG" /></h1>
 </p>
 <p align="center">
   <a href="https://github.com/mahmoudrabbas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Engineer;Spring+Boot+Backend+Engineer;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=22&pause=1500&center=true&vCenter=true&width=450&lines=Software+Engineer;Spring+Boot+Backend+Engineer;Always+Learning..." alt="Typing SVG" />
   </a>
 </p>
+
+
+<p align="center">
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&center=true&vCenter=true&width=450&lines=Mahmoud+Ramadan+Abbas" alt="Typing SVG" /></h1>
+</p>
+<p align="center">
+  <a href="https://github.com/mahmoudrabbas">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=25&pause=1200&center=true&vCenter=true&width=450&lines=Software+Engineer;Backend+Developer;Passionate+About+Tech" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=700&center=true&vCenter=true&width=450&lines=Mahmoud+Ramadan+Abbas" alt="Typing SVG" /></h1>
+</p>
+<p align="center">
+  <a href="https://github.com/mahmoudrabbas">
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=400&size=23&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Developer;Spring+Boot+Expert;Code+Every+Day" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=500&center=true&vCenter=true&width=450&lines=Mahmoud+Ramadan+Abbas&color=00FF00" alt="Typing SVG" /></h1>
+</p>
+<p align="center">
+  <a href="https://github.com/mahmoudrabbas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Engineer;Backend+Developer;Always+Learning...&color=FF4500" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=mahmoudrabbas.mahmoudrabbas" alt="Visitor count" />
