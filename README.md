@@ -13,8 +13,6 @@
 </p>
 
 
-----
-
 ## About Me
 
 - Graduate of ** Faculty of Computers and Information, Minya University **
@@ -48,6 +46,14 @@
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudrabbas&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabbas&theme=radical" width="47%"/>
+</p>
+
+
 ## Featured Projects
 
 | Project | Description | Tech Stack | Preview |
@@ -58,21 +64,11 @@
 | **[Compedia](https://github.com/mahmoudrabbas/compedia)** | Full-featured Spring Boot app with user auth and post system. | Spring Boot, Spring Security, MySQL | [View Project](https://github.com/mahmoudrabbas/compedia) |
 | **[Student Management System](https://github.com/mahmoudrabbas/student_management_system)** | REST API for managing student records and operations. | Java, Spring Boot, JPA, MySQL | [View Project](https://github.com/mahmoudrabbas/student_management_system) |
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudrabbas&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabbas&theme=radical" width="47%"/>
-</p>
 
 ---
 
 ## Let's Connect
 
-- Email:    [mahmoodrabass@gmail.com](mailto:mahmoodrabass@gmail.com)  
-- LinkedIn: [linkedin.com/in/mahmoudrabbas](https://www.linkedin.com/in/mahmoudrabbas)  
-- GitHub:   [github.com/mahmoudrabbas](https://github.com/mahmoudrabbas)
+- [mahmoodrabass@gmail.com](mailto:mahmoodrabass@gmail.com)  
+- [linkedin.com/in/mahmoudrabbas](https://www.linkedin.com/in/mahmoudrabbas)  
 
----
