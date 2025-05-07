@@ -45,7 +45,39 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+### check
 
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+### 🔙 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+----------------
 ## GitHub Stats
 
 <p align="center">
@@ -58,12 +90,11 @@
 
 | Project | Description | Tech Stack | Preview |
 |---------|-------------|------------|---------|
+| **[Student Management System](https://github.com/mahmoudrabbas/student_management_system)** | REST API for managing student records and operations. | Java, Spring Boot, JPA, MySQL | [View Project](https://github.com/mahmoudrabbas/student_management_system) |
+| **[Compedia](https://github.com/mahmoudrabbas/compedia)** | Full-featured Spring Boot app with user auth and post system. | Spring Boot, Spring Security, MySQL | [View Project](https://github.com/mahmoudrabbas/compedia) |
 | **[Art Corner 2](https://github.com/mahmoudrabbas/art-corner2)** | Web app for displaying and managing artworks in a creative way. | React.js, Node.js, MongoDB | [View Project](https://github.com/mahmoudrabbas/art-corner2) |
 | **[Find a Restaurant App](https://github.com/mahmoudrabbas/find-a-restaurant-app)** | Mobile app to search and browse restaurants using Yelp API. | React Native, Yelp API | [View Project](https://github.com/mahmoudrabbas/find-a-restaurant-app) |
 | **[Holy Quran](https://github.com/mahmoudrabbas/holy-quran)** | Web app to browse Quranic surahs and display random ayahs. | React.js, Quran API | [View Project](https://github.com/mahmoudrabbas/holy-quran) |
-| **[Compedia](https://github.com/mahmoudrabbas/compedia)** | Full-featured Spring Boot app with user auth and post system. | Spring Boot, Spring Security, MySQL | [View Project](https://github.com/mahmoudrabbas/compedia) |
-| **[Student Management System](https://github.com/mahmoudrabbas/student_management_system)** | REST API for managing student records and operations. | Java, Spring Boot, JPA, MySQL | [View Project](https://github.com/mahmoudrabbas/student_management_system) |
-
 
 ---
 
