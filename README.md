@@ -17,8 +17,8 @@
 
 ## About Me
 
-- Graduate of **Faculty of Computers and Information, Minya University**
-- Focused on **Software Engineering & Backend Development & Operating System & System Designs **  
+- Graduate of ** Faculty of Computers and Information, Minya University **
+- Focused on ** Software Engineering & Backend Development & Operating System & System Designs **  
 - Passionate about learning and building real-world secure and scalable apps
 
 ---
