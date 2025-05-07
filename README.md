@@ -5,15 +5,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Engeineer" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudrabbas&label=Profile+Views&color=0e75b6&style=flat" alt="mahmoudrabbas" />
+</p>
+
 ---
 
 ## 📌 About Me
 
-- 🎓 Graduate of **Faculty of Computers and Information**, Class of 2022  
-- 💻 Focused on **Spring Boot & Backend Development**  
-- 🛡️ Learning **Cybersecurity** to become a **Penetration Tester / Bug Hunter**  
-- 🔄 Combining software development with security practices  
-- ✨ Passionate about learning and building real-world secure apps
+- 🎓 Graduate of **Faculty of Computers and Information, Minya University**
+- 💻 Focused on **Software Engineering & Backend Development & Operating System & System Designs **  
+- ✨ Passionate about learning and building real-world secure and scalable apps
 
 ---
 
