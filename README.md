@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&color=0FF6FC&center=true&vCenter=true&width=600&lines=Mahmoud+Ramadan+Abbas&color=007f00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&center=true&vCenter=true&width=600&lines=Mahmoud+Ramadan+Abbas&color=007f00" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 </p>
 
 
-## About Me
+## Info
 
-- Graduate of ** Faculty of Computers and Information, Minya University **
-- Focused on ** Software Engineering & Backend Development & Operating System & System Designs **  
+- Graduate of Faculty of Computers and Information, Minya University.
+- Focused on Software Engineering & Backend Development & Operating System & System Designs.
 - Passionate about learning and building real-world secure and scalable apps
 
 ---
@@ -63,7 +63,7 @@
 
 ---
 
-## Let's Connect
+## Connect me
 
 - [mahmoodrabass@gmail.com](mailto:mahmoodrabass@gmail.com)  
 - [linkedin.com/in/mahmoudrabbas](https://www.linkedin.com/in/mahmoudrabbas)  
