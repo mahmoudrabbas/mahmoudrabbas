@@ -1,8 +1,10 @@
-<h1 align="center">👋=Mahmoud Ramadan Abbas</h1>
 
 <p align="center">
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Mahmoud+Ramadan+Abbas" alt="Typing SVG" /></h1>
+</p>
+<p align="center">
   <a href="https://github.com/mahmoudrabbas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Developer;Spring+Boot+Backend+Engineer;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Engineer;Spring+Boot+Backend+Engineer;Always+Learning..." alt="Typing SVG" />
   </a>
 </p>
 
