@@ -1,4 +1,6 @@
-<h1 align="center">Mahmoud Ramadan Abbas</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&color=0FF6FC&center=true&vCenter=true&width=600&lines=Mahmoud+Ramadan+Abbas" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/mahmoudrabbas">
@@ -6,13 +8,12 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoudrabbas&label=Profile+Views&color=0e75b6&style=flat" alt="mahmoudrabbas" />
 </p>
 
----
+
+----
 
 ## 📌 About Me
 
