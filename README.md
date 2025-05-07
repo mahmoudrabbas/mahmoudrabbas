@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mahmoudrabbas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Engeineer" alt="Typing SVG" />
-  </a>
+    <h3>Software Enginner | Java Backend Developer | Knowledge Seeker</h3>
 </p>
 
 <p align="center">
