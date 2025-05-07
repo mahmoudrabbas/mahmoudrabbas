@@ -1,63 +1,13 @@
-<h1 align="center">👋 Hello, I'm Mahmoud Ramadan Abbas</h1>
+<h1 align="center">👋=Mahmoud Ramadan Abbas</h1>
 
 <p align="center">
   <a href="https://github.com/mahmoudrabbas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Engineer;Java+Backend+Engineer;Cybersecurity+Learner;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Developer;Spring+Boot+Backend+Engineer;Always+Learning..." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=mahmoudrabbas.mahmoudrabbas" alt="Visitor count" />
-</p>
-
----
-
-## 📌 About Me
-
-- 🎓 Graduate of **Faculty of Computers and Information, Minya University **
-- 💻 Focused on **Software Engineering & Backend Development & Operating System & Design System**  
-- 🔄 Combining software development with security practices  
-- ✨ Passionate about learning and building real-world secure and scalable apps
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔙 Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📂 Featured Projects
-
-<h1 align="center">👋 Hello, I'm Mahmoud Ramadan Abbas</h1>
-
-<p align="center">
-  <a href="https://github.com/mahmoudrabbas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Software+Developer;Spring+Boot+Backend+Engineer;Cybersecurity+Learner;Always+Learning..." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mahmoudabbas.mahmoudabbas" alt="Visitor count" />
 </p>
 
 ---
@@ -125,5 +75,3 @@
 - 🐙 GitHub: [github.com/mahmoudrabbas](https://github.com/mahmoudrabbas)
 
 ---
-
-> "Code hard, hack smart 💻🔐"
