@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link style="color:red ;" rel="icon" href="./imgs/m-solid.svg">
+    <link rel="stylesheet" href="./css/sass/normalize.css" />
+    <link rel="stylesheet" href="./css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap" />
+    <link rel="stylesheet" href="./css/sass/styles.css" />
+    <script src="js/main.js" defer></script>
+    <title>mahmoudrabbas</title>
+</head>
+
+<body>
+    <span onclick="toTop()" class="arrow" id="arrow">
+        <i class="fa-solid fa-angles-up"></i>
+    </span>
+    <div class="header">
+        <div class="container">
+            <span class="logo"><a href="https://www.github.com/mahmoudrabbas">mahmoudrabbas.</a></span>
+            <div class="links">
+                <span onclick="openLinks()" class="icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </span>
+                <ul id="links">
+                    <li onclick="openLinks()"><a href="#me">ME</a></li>
+                    <li onclick="openLinks()"><a href="#skills">Skills</a></li>
+                    <li onclick="openLinks()"><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <section class="portfolio" id="me">
+        <h3>Hello There!</h3>
+        <div class="container">
+            <div class="part1">
+                <h4>Who Am I ?</h4>
+                <div class="description">
+                    <p>Software Engineer And Java Backend Developer Seeking Knowledge And Problem Solver</p>
+                </div>
+
+                <a href="cv/Mahmoud-Abbas.pdf" download class="cv"><i class="fa-solid fa-download"></i> Resume</a>
+            </div>
+            <div class="part3">
+                <img class="img" src="./imgs/pp.png">
+            </div>
+            <div class="part2">
+                <a href="https://www.facebook.com/mahmoodrabbas"><i title="my facebook" class="fab fa-facebook"></i></a>
+                <a href="https://www.twitter.com/mahmoudrabbas"><i title="my twitter" class="fab fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/in/mahmoudrabbas"><i title="my linkedin"
+                        class="fa-brands fa-linkedin"></i></a>
+                <a href="https://www.github.com/mahmoudrabbas"><i title="my github" class="fab fa-github"></i></a>
+                <a href="https://stackoverflow.com/users/14189675"><i title="my stackoverflow"
+                        class="fa-brands fa-stack-overflow"></i></a>
+                <a href="mailto:mahmoodrabass@gmail.com"><i title="my twitter" class="fab fa-google"></i></a>
+            </div>
+        </div>
+    </section>
+    <section class="skills" id="skills">
+        <h3>Skills</h3>
+        <div class="container">
+            <div class="skills">
+
+        
+
+                <div class="skill">
+                    <div class="skill-img">
+                        <img src="imgs/spring-boot-logo.png" />
+                    </div>
+                    <div class='skill-desc'>
+                        <h4>Back End</h4>
+                        <p>I have solid foundation in back end development</p>
+                        <span>#spring&spring-boot</span>
+                        <span>#nodejs</span>
+                        <span>#mysql</span>
+                        <span>#mongoDB</span>
+                    </div>
+                </div>
+
+                <div class="skill">
+                    <div class="skill-img">
+                        <img src="imgs/frontendfront-logo-share.png" />
+                    </div>
+                    <div class='skill-desc'>
+                        <h4>Front End</h4>
+                        <p>I have basic knowledge in the front end development</p>
+                        <span>#html</span>
+                        <span>#css</span>
+                        <span>#js</span>
+                        <span>#react</span>
+                    </div>
+                </div>
+
+                <div class="skill">
+                    <div class="skill-img">
+                        <img src="imgs/ps.png" />
+                    </div>
+                    <div class='skill-desc'>
+                        <h4>Problem Solving</h4>
+                        <p>I have some Experience in problem solving</p>
+                        <span>#datastructures</span>
+                        <span>#algorithms</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="projects-container">
+            <div class="project-card">
+                <img src="./imgs/projects-imgs/1_qsy8SUat2FzqgPYHQxNfXg.png" alt="Spring boot project">
+                <div class="project-info">
+                <h3>Compedia</h3>
+                <p style="border-bottom: 2px solid #66b62a; padding-bottom: 5px;">Web services in spring boot, mysql jpa and security</p>
+                <p>Tools:  Spring-boot, JWT, Mysql</p>
+                <a href="https://github.com/mahmoudrabbas/compedia" target="_blank">View Project</a>
+            </div>
+        </div>
+          <div class="project-card">
+            <img src="./imgs/projects-imgs/capture.png" alt="Artcorner">
+            <div class="project-info">
+              <h3>Art-Corner</h3>
+              <p style="border-bottom: 2px solid #212529; padding-bottom: 5px;">A full stack web app using nodejs, reactjs and mongodb</p>
+              <p>Tools:  Nodejs, Expressjs, Mongodb, Reactjs</p>
+              <a href="https://github.com/mahmoudrabbas/art-corner2" target="_blank">View Project</a>
+            </div>
+          </div>
+             <div class="project-card">
+                <img src="./imgs/projects-imgs/desktop2.png" alt="holy-quran">
+                <div class="project-info">
+                <h3>Holy-quran</h3>
+                <p style="border-bottom: 2px solid #212529; padding-bottom: 5px;">E-Quran website in reactjs & alquran-cloud-api</p>
+                <p>Tools:  Reactjs, Alquran-cloud-api, Reduxjs</p>
+                <a href="https://github.com/mahmoudrabbas/holy-quran" target="_blank">View Project</a>
+                </div>
+             </div>
+             <div class="project-card">
+                <img src="./imgs/projects-imgs/img1.png" alt="react-native">
+                <div class="project-info">
+                <h3>Find-Restaurant</h3>
+                <p style="border-bottom: 2px solid red; padding-bottom: 5px;">A Cross platform mobile app used to find Restuarents</p>
+                <p>Tools:  React-native, yelp api</p>
+                <a href="https://github.com/mahmoudrabbas/find-a-restaurant-app" target="_blank">View Project</a>
+                </div>
+             </div>
+      </section>
+      
+
+    <section class="contact" id="contact">
+        <h3>Contact me</h3><br>
+        <div class="container">
+            <form>
+                <div class="input-group">
+                    <label for="name">Name: </label>
+                    <input type="text" id="name" placeholder="type your name" />
+                </div>
+                <div class="input-group">
+                    <label for="email">Email: </label>
+                    <input type="email" id="email" placeholder="type your email" />
+                </div>
+                <div class="input-group">
+                    <label for="email">Message: </label>
+                    <textarea rows="6" class="message" placeholder="write your message"></textarea>
+                </div>
+                <div class="input-group">
+                    <button type="submit"><i class="fa-solid fa-paper-plane"></i> Send</button>
+                </div>
+            </form>
+        </div>
+        <div class="footer">
+            <div class="container">
+                <p>Made with <i class="fa-solid fa-heart"></i> 2025 &copy; <span class="logo">mahmoudrabbas.</span>
+                </p>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

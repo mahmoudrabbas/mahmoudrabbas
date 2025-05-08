@@ -1,0 +1,10 @@
+
+// import global rules
+@use './layouts/global-rules';
+
+// import the properties
+@use './pages/portfolio';
+
+// import functions
+@use './layouts/functions' as *;
+
