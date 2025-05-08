@@ -1,7 +1,0 @@
-@function collect($nums...){
-    $sum: 0;
-    @each $var in $sums {
-        $sum: $sum+$var;
-    }
-    @return $sum;
-}
