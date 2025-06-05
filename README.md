@@ -6,9 +6,7 @@
     <span>Software Engineer | Java Backend Developer | Knowledge Seeker</span>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoudrabbas&label=Profile+Views&color=0e75b6&style=flat" alt="mahmoudrabbas" />
-</p>
+
 
 
 ## Info
