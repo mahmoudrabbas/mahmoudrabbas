@@ -50,17 +50,6 @@
 </p>
 
 
-## Featured Projects
-
-| Project | Description | Tech Stack | Preview |
-|---------|-------------|------------|---------|
-| **[Student Management System](https://github.com/mahmoudrabbas/student_management_system)** | REST API for managing student records and operations. | Java, Spring Boot, JPA, MySQL | [View Project](https://github.com/mahmoudrabbas/student_management_system) |
-| **[Compedia](https://github.com/mahmoudrabbas/compedia)** | Full-featured Spring Boot app with user auth and post system. | Spring Boot, Spring Security, MySQL | [View Project](https://github.com/mahmoudrabbas/compedia) |
-| **[Art Corner 2](https://github.com/mahmoudrabbas/art-corner2)** | Web app for displaying and managing artworks in a creative way. | React.js, Node.js, MongoDB | [View Project](https://github.com/mahmoudrabbas/art-corner2) |
-| **[Find a Restaurant App](https://github.com/mahmoudrabbas/find-a-restaurant-app)** | Mobile app to search and browse restaurants using Yelp API. | React Native, Yelp API | [View Project](https://github.com/mahmoudrabbas/find-a-restaurant-app) |
-| **[Holy Quran](https://github.com/mahmoudrabbas/holy-quran)** | Web app to browse Quranic surahs and display random ayahs. | React.js, Quran API | [View Project](https://github.com/mahmoudrabbas/holy-quran) |
-
----
 
 ## Connect me
 
