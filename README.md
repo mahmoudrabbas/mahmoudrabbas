@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <span>Java Backend Developer | Knowledge Seeker</span>
+    <span>Software Developer | Knowledge Seeker</span>
 </p>
 
 
