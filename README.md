@@ -6,10 +6,3 @@
 <p align="center">
     <span>Software Developer | Knowledge Seeker</span>
 </p>
-
-
-
-- [mahmoodrabass@gmail.com](mailto:mahmoodrabass@gmail.com)  
-- [website](https://mahmoudrabass.vercel.app/)  
-- [linkedin.com/in/mahmoudrabbas](https://www.linkedin.com/in/mahmoudrabbas)  
-
