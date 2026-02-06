@@ -5,7 +5,9 @@
 <p align="center">
   <strong>Software Engineer</strong> • Always Learning
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudrabbas&style=flat&color=green"/>
+</p>
 ---
 
 ### 👨‍💻 About Me
@@ -32,8 +34,3 @@
 
 ### 📫 Contact
 - 💼 LinkedIn: https://linkedin.com/in/mahmoudrabbas
-- 📧 Email: mahmoodrabass@gmail.com  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoudrabbas&style=flat&color=green"/>
-</p>
