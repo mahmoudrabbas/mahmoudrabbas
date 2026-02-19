@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&center=true&vCenter=true&width=700&lines=Mahmoud+Ramadan+Abbas;Backend+Developer+%7C+Spring+Boot;Cybersecurity+Enthusiast" />
+  <h1>Mahmoud Ramadan Abbas</h1>
 </p>
 
 <p align="center">
