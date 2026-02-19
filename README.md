@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Mahmoud Ramadan Abbas</h1>
+  <h1 align="center">Mahmoud Ramadan Abbas</h1>
 </p>
 
 <p align="center">
